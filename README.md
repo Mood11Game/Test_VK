@@ -46,15 +46,15 @@
    mkdir build && cd build
   
 2. Генерируй make-файлы:
-  ```
-   cmake .. -G "MinGW Makefiles"
-  ```
+```
+cmake .. -G "MinGW Makefiles"
+```
 3. Построй проект:
-   ```
-   mingw32-make
-   ```
+```
+mingw32-make
+```
 4. Запусти
-   ```
-   ./metrics_app
-   ```
+```
+./metrics_app
+```
 
