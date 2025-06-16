@@ -1,3 +1,0 @@
-D:/C++/metrics/build/CMakeFiles/metrics_app.dir
-D:/C++/metrics/build/CMakeFiles/edit_cache.dir
-D:/C++/metrics/build/CMakeFiles/rebuild_cache.dir
