@@ -22,6 +22,6 @@ int main() {
     std::this_thread::sleep_for(std::chrono::seconds(3));
     manager.stop();
 
-    std::cout << "complet\n";
+    std::cout << "cmplt\n";
     return 0;
 }
